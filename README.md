@@ -4,7 +4,7 @@ This repository contains the solutions for the second assignment of the CS-II co
 
 The repository is based on ROSALIND and HackerRank and it's structured as follows:
 
-## Bioninformatics Stronghold
+## Bioinformatics Stronghold
 
 From Bioinformatics Stronghold: fibd (ex1), mrna (ex2), lia (ex3), prtm (ex4), lcsm (ex5), tran (ex6), cons (ex7), perm (ex8), revp (ex9), splc (ex10)
 
